@@ -19,3 +19,5 @@ BoardCase : c'est une case. Il devrait y avoir 9 instances de cette classe lors 
 
 Application : cette classe va nous permettre de lancer le jeu. Elle va faire une boucle infinie de parties (on joue tant que les joueurs veulent continuer) et lancer l'instanciation d'un Game.
 
+Pour lancer le jeu il faut utiliser dans le terminal le fichier app.rb 
+J'utilise la version Ruby 2.5.1
